@@ -1,0 +1,3 @@
+﻿  MainCTime.cpp
+C:\Users\Administrator\Desktop\CODE PROJECT\LAP TRINH HUONG DOI TUONG\THUCHANH_6.5.2022\CTimeSpan.h(5,1): error C2011: 'CTimeSpan': 'class' type redefinition
+C:\Users\Administrator\Desktop\CODE PROJECT\LAP TRINH HUONG DOI TUONG\THUCHANH_6.5.2022\CTimeSpan.h(4): message : see declaration of 'CTimeSpan'
